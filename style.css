@@ -25,7 +25,10 @@ header {
   justify-content: space-between;
  padding-left: 3rem;
  padding-right: 3rem;
- 
+ position: fixed;
+ z-index: 800;
+ top: 0;
+ width: 100%;
 }
 
 
@@ -187,7 +190,8 @@ ul li:hover {
     margin-left: 3rem;
     margin-right: 3rem;
     background-size: 100%;
-    background-image: url("images/image-plane.jpg");   
+    background-image: url("images/image-plane.jpg");  
+    margin-top: 4.3rem; 
 }
 
 .first-container-content{
@@ -679,7 +683,8 @@ padding-bottom: 10px;
    
   .first-container{
    margin-left: 0.4rem;
-    margin-right: 0.4rem;
+   margin-right: 0.4rem;
+   border-radius: 0px 0px 8px 8px;
   }
   .first-container-content{
     padding-left:0rem;
@@ -773,7 +778,7 @@ display: none;
     }
     
 .third-herotext-container h2   {
-  font-size: 15px;
+  font-size: 13px;
 }
 
 .third-herotext-container .tag-third{
