@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/Screenshot%20(164).png)
+![](/images/Screenshot.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](http://uitheme.net/vstream/season.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://greycode-007.github.io/MovieAPP/#)
 
 ## My process
 
